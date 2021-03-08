@@ -1,3 +1,3 @@
-##HELLO WORLD !
+<h1>HELLO WORLD !</h1>
 
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 150px; "><center>✨COMING SOON!</center></span>
+<p >✨COMING SOON!</p>
