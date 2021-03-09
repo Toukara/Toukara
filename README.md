@@ -7,7 +7,7 @@
 
 
 
- ## Hi there ! 👋 **I'm Benjamin.👨‍💻** 
+ ### Hi there ! 👋 **I'm Benjamin.👨‍💻** 
 ----
 <br>
 <p style="font-family: 'Ubuntu'; font-size: 16px;">
@@ -20,7 +20,7 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 
 <img align="right" width="30%" alt="GIF" src="./images/train.gif"  />
 
-## 👋 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;">About me</span>
+### 👋 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;">About me</span>
 
 - 😉&nbsp;I love to learn new things everyday
 - ✨&nbsp;I'm a Javascript Developer
@@ -33,11 +33,11 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 
 ---
 
-## 🖥️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> Languages 
+### 🖥️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> Languages 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![MARKDOWN](https://img.shields.io/badge/-MARKDOWN-black?style=flat-square&logo=MARKDOWN)
 
 ---
-## 🖱️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> FRAMEWORKS 
+### 🖱️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> FRAMEWORKS 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
@@ -46,14 +46,14 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 
 ---
 
-## 🛢️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> DATABASES 
+### 🛢️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> DATABASES 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=MYSQL)
 ![MONGODB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
 ---
 
-## 🏷️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> IDE & OS & TOOLS 
+### 🏷️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> IDE & OS & TOOLS
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) 
 ![VSCODE](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=Visual-studio-code)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
