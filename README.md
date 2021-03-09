@@ -7,8 +7,8 @@
 
 
 
- ### Hi there ! 👋 **I'm Benjamin.👨‍💻** 
-----
+ ## Hi there ! 👋 **I'm Benjamin.👨‍💻** 
+
 <br>
 <p style="font-family: 'Ubuntu'; font-size: 16px;">
 A self-thought French Javascript developer <img align="" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>
