@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img alt="gif" src="./images/banner.gif" width="100%" height="350px"/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/toukaaraa)
@@ -73,8 +72,3 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 <p style="font-family: 'Ubuntu'; font-size: 16px;">You can follow the progress on our Discord Server <a href="https://discord.gg/nEzsfjjbcq"><img width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/></a></p>
 
 <img src=".\images\DiscordBOT.png" width="385px" height="285" align="left">
-=======
-<h1>HELLO WORLD !</h1>
->>>>>>> c6b41056115017c339fd571e9bb276507e02a41e
-
-<p >✨COMING SOON!</p>
