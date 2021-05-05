@@ -1,5 +1,3 @@
-<img alt="gif" src="./images/banner.gif" width="100%" height="350px"/>
-
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/toukaaraa)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/nEzsfjjbcq)
 [![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
