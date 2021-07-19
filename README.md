@@ -63,7 +63,7 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 <br>
 
 
-## ⚙️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> Current Projetcs</span>
+## ⚙️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> Current Public Projetcs</span>
 
 
 ### PhoneMicrowave (A Discord Bot)
