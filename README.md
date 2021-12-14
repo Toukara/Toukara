@@ -66,7 +66,6 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 ## ⚙️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> Current Public Projetcs</span>
 
 
-### PhoneMicrowave (A Discord Bot)
-<p style="font-family: 'Ubuntu'; font-size: 16px;">You can follow the progress on our Discord Server <a href="https://discord.gg/nEzsfjjbcq"><img width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/></a></p>
+### Currently in web developer training
 
-<img src=".\images\DiscordBOT.png" width="385px" height="285" align="left">
+
