@@ -58,6 +58,7 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=Adobe-Photoshop)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![FIgma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ---
 
 <br>
