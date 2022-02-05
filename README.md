@@ -1,9 +1,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Benjamincms_)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/nEzsfjjbcq)
-[![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
-
-
-
+[![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Toukara)
+[![Codepen](https://img.shields.io/badge/Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/toukara)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-black?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/17195804/toukara)
 
  ## Hi there ! 👋 **I'm Benjamin.👨‍💻** 
 
@@ -67,6 +65,8 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 ## ⚙️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> Current Public Projetcs</span>
 
 
-### Currently in web developer training
+### Currently Student at OpenClassroom.
 
+
+<a href="https://stackoverflow.com/users/17195804/toukara"><img src="https://stackoverflow.com/users/flair/17195804.png" width="208" height="58" alt="profile for Toukara at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Toukara at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
