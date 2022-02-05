@@ -67,6 +67,7 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 
 ### Currently Student at OpenClassroom.
 
-
+---
+ 
 <a href="https://stackoverflow.com/users/17195804/toukara"><img src="https://stackoverflow.com/users/flair/17195804.png" width="208" height="58" alt="profile for Toukara at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Toukara at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
