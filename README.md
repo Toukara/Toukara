@@ -14,7 +14,7 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 
 <br>
 
-<img align="right" width="30%" alt="GIF" src="./images/train.gif"  />
+<img align="right" width="30%" alt="GIF" src="./images/growUpGif.gif"/>
 
 ### 👋 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;">About me</span>
 
