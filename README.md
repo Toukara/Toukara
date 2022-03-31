@@ -62,10 +62,8 @@ In the past i was able to work with programming technologies such as nodeJS, exp
 <br>
 
 
-## ⚙️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> Current Public Projetcs</span>
-
-
-### Currently Student at OpenClassroom.
+## 💼 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;">CURRENT STATUS</span>
+- 📃&nbsp;Currently Student at OpenClassroom.
 
 ---
  
