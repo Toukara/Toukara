@@ -6,6 +6,9 @@
  ## Hi there ! 👋 **I'm Benjamin.👨‍💻** 
 
 <br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11147479483&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11147479483&redirect=true)
+
 <p style="font-family: 'Ubuntu'; font-size: 16px;">
 A self-thought French Javascript developer <img align="" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>
 <br>
