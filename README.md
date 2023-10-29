@@ -3,16 +3,14 @@
 [![Codepen](https://img.shields.io/badge/Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/toukara)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-black?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/17195804/toukara)
 
- ## Hi there ! 👋 **I'm Benjamin.👨‍💻** 
+ ## Hello world 🌍 ! 👋 **I'm Benjamin.👨‍💻** 
 
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11147479483&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11147479483&redirect=true)
 
 <p style="font-family: 'Ubuntu'; font-size: 16px;">
-A self-taught French Javascript developer <img align="" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>
-<br>
-In the past i was able to work with programming technologies such as nodeJS, expressJS, discordJS and React
+I am a self-taught web developer based in France, with expertise in various web development technologies such as Vue.js, React, Node.js, and Express.js. My ability to adapt and work with a range of web technologies demonstrates my commitment to continuous learning and staying current in the ever-evolving field of web development.
 </p>
 
 <br>
