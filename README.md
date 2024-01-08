@@ -7,10 +7,8 @@
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11147479483&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11147479483&redirect=true)
-
 <p style="font-family: 'Ubuntu'; font-size: 16px;">
-I am a self-taught web developer based in France, with expertise in various web development technologies such as Vue.js, React, Node.js, and Express.js. My ability to adapt and work with a range of web technologies demonstrates my commitment to continuous learning and staying current in the ever-evolving field of web development.
+I am a fullstack developer based in France, with expertise in various web development technologies such as Vue.js, React, Node.js, and Express.js. My ability to adapt and work with a range of web technologies demonstrates my commitment to continuous learning and staying current in the ever-evolving field of web development..
 </p>
 
 <br>
@@ -19,12 +17,12 @@ I am a self-taught web developer based in France, with expertise in various web 
 
 ### 👋 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;">About me</span>
 
-- 😉&nbsp;I love to learn new things everyday
-- ✨&nbsp;I'm a Javascript Developer
-- 🎓&nbsp;I'm currently learning WebDevelopment
+- 😉&nbsp;I love to learn new things everyday.
+- ✨&nbsp;I'm a FullStack Web Developer.
+- 👀&nbsp;I'm currently looking for jobs.
 - 🧿&nbsp;Hobbies other than coding : Playing video games, Table Tennis , Reading blogs , Watch Videos / Animes & Twitch.
-- 📣&nbsp;I speak French natively as well as English fluently
-- 📃&nbsp;Resume _(Coming soon..😉)_ 
+- 📣&nbsp;I speak French natively as well as English fluently.
+- 📃&nbsp;Resume _(Coming soon..😉)_ .
 
 <br>
 
@@ -36,6 +34,7 @@ I am a self-taught web developer based in France, with expertise in various web 
 ---
 ### 🖱️ <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;"> FRAMEWORKS 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuedotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
@@ -57,14 +56,10 @@ I am a self-taught web developer based in France, with expertise in various web 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=Adobe-Photoshop)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![FIgma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ---
 
 <br>
-
-
-## 💼 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 20px;">CURRENT STATUS</span>
-- 🔍&nbsp;Available for work...
 
 ---
  
