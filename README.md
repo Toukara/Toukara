@@ -33,9 +33,6 @@ Location: France
 🌐 Codepen: https://codepen.io/toukara
 🌐 Twitter: https://twitter.com/Benjamincms_
 
-> sudo echo "Thanks for visiting!"
-✨ Let's create something amazing together! ✨
-
 > cat certifications.txt
 ✔️ Full-Stack Development Certification - Codecademy
 ✔️ JavaScript Algorithms & Data Structures - freeCodeCamp
