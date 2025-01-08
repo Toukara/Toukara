@@ -50,12 +50,11 @@ Location: France
 > sudo rm -rf procrastination
 Access Denied: Cannot delete procrastination. It's running in the background! 🙃
 ```
-<!-- <!-- TODO-IST::START -->
-<!-- <!-- TODO-IST::END -->
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 
 [![Toukara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=toukara&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/toukara)
-<!-- 
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Benjamincms_)
-[![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Toukara)
-[![Codepen](https://img.shields.io/badge/Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/toukara)
-[![Devto](https://img.shields.io/badge/Devto-black?style=flat-square&logo=Devto&logoColor=white)](https://codepen.io/toukara) -->
