@@ -36,15 +36,6 @@ Location: France
 > cat certifications.txt
 ✔️ Full-Stack Developer Certification - Openclassrooms
 
-> git log --author="Toukara" --stat
-🏆 XXX+ contributions this month!
-
-
-
-
-
-
-
 > sudo rm -rf procrastination
 Access Denied: Cannot delete procrastination. It's running in the background! 🙃
 ```
