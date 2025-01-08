@@ -51,9 +51,9 @@ Location: France
 Access Denied: Cannot delete procrastination. It's running in the background! 🙃
 ```
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=toukara&show_icons=true&theme=radical)](https://github.com/toukara)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toukara&size_weight=0.9&count_weight=0.5)
+<!-- 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Benjamincms_)
 [![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Toukara)
 [![Codepen](https://img.shields.io/badge/Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/toukara)
-[![Devto](https://img.shields.io/badge/Devto-black?style=flat-square&logo=Devto&logoColor=white)](https://codepen.io/toukara)
+[![Devto](https://img.shields.io/badge/Devto-black?style=flat-square&logo=Devto&logoColor=white)](https://codepen.io/toukara) -->
