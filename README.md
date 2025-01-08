@@ -34,9 +34,7 @@ Location: France
 🌐 Twitter: https://twitter.com/Benjamincms_
 
 > cat certifications.txt
-✔️ Full-Stack Development Certification - Codecademy
-✔️ JavaScript Algorithms & Data Structures - freeCodeCamp
-✔️ Docker Essentials - LinkedIn Learning
+✔️ Full-Stack Developer Certification - Openclassrooms
 
 > git log --author="Toukara" --stat
 🏆 XXX+ contributions this month!
@@ -51,10 +49,4 @@ Location: France
 Access Denied: Cannot delete procrastination. It's running in the background! 🙃
 ```
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
-
-[![Toukara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=toukara&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/toukara)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toukara&theme=apprentice)
