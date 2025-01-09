@@ -40,8 +40,11 @@ Location: France
 Access Denied: Cannot delete procrastination. It's running in the background! 🙃
 ```
 <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=toukara&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=toukara&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukara&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img src="https://github-readme-stats.vercel.app/api?username=toukara&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukara&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
+
+
+[![](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/Benjamincms_)
+[![](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Toukara)
+[![](https://img.shields.io/badge/Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/toukara)
+[![](https://img.shields.io/badge/StackOverflow-black?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/17195804/toukara)
