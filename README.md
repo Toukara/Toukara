@@ -18,8 +18,6 @@ Role: Full-Stack Developer
 Location: France
 -------------------------
 
-> contact --message "Hello!"
-📧 Email: camus.benjamin@hotmail.com
 
 > ls skills/
 📂 Languages: JavaScript, HTML5, CSS3, Markdown
