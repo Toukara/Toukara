@@ -37,10 +37,6 @@ Location: France
 > sudo rm -rf procrastination
 Access Denied: Cannot delete procrastination. It's running in the background! 🙃
 ```
-<!-- <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=toukara&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark_dimmed" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toukara&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark_dimmed" />        
-</p> -->
 
 # VS CODE ACTIVITY
    <img src="https://actdoor.onrender.com/api/getActivity/Toukara?type=github" />  
