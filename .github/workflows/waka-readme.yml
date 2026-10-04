@@ -15,3 +15,9 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master 
+          TARGET_PATH: README.md
+          BLOCKS: -#
+          LANG_COUNT: 10
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
