@@ -47,4 +47,12 @@ Access Denied: Cannot delete procrastination. It's running in the background! �
 [![](https://img.shields.io/badge/StackOverflow-black?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/17195804/toukara)-->
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     7 mins                █████████████▒░░░░░░░░░░░   53.06 %
+JavaScript   3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+JSON         2 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+PowerShell   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+```
+
 <!--END_SECTION:waka-->
