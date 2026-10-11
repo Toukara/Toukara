@@ -49,12 +49,11 @@ Access Denied: Cannot delete procrastination. It's running in the background! ðŸ
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 44 mins          ##############-----------   57.54 %
-JavaScript   20 mins               ###----------------------   11.18 %
-Markdown     18 mins               ###----------------------   10.17 %
-jsonc        1 min                 -------------------------   00.66 %
-PowerShell   0 secs                -------------------------   00.39 %
-Python       0 secs                -------------------------   00.35 %
+HTML         1 hr 44 mins          ################---------   62.18 %
+JavaScript   17 mins               ###----------------------   10.27 %
+Markdown     11 mins               ##-----------------------   06.69 %
+jsonc        1 min                 -------------------------   00.72 %
+Python       0 secs                -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
